@@ -2,6 +2,7 @@
 # Auto rotate screen based on device orientation
 #
 # Copyright (c) 2021 Stephan Helma
+# Copyright (c) 2016 chadm (https://linuxappfinder.com/blog/auto_screen_rotation_in_ubuntu)
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
