@@ -1,0 +1,12 @@
+# Automatic screen rotation for convertible PCs.
+
+Some linux distros like Lubuntu who has Lqtx doesn't allow to auto-rotate screen.
+So I've gathered some scripts into one to make it automatically rotate
+
+# Auto Screen Rotation script used
+https://linuxappfinder.com/blog/auto_screen_rotation_in_ubuntu
+
+# Screen rotation with all pointers 
+https://github.com/linux-surface/linux-surface/tree/master/contrib/rotate-screen
+
+Simply put them together and you have a fully working script.
